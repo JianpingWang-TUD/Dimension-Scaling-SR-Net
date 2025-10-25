@@ -9,7 +9,7 @@ Dimension Scaling SR-Net for Super-Resolution Radar Range Profiles
 # Reference
 Please cite our work via 
 ```
-@ARTICLE{11181132,
+@ARTICLE{Wang2025TAES,
   author={Wang, Ziwen and Wang, Jianping and Li, Pucheng and Ding, Zegang},
   journal={IEEE Transactions on Aerospace and Electronic Systems}, 
   title={Dimension Scaling SR-Net for Super-Resolution Radar Range Profiles}, 
