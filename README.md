@@ -26,6 +26,40 @@ The project includes:
     │   ├── noise.py               # Noise injection functions
     ├── complex_layers/
     │   └── complexLayers.py       # Complex-valued layers (Conv, Linear, etc.)
+      
+    
+    
+      
+    
     └── checkpoint/                # Folder for saving models
 
 ------------------------------------------------------------------------
+
+## Reference
+Please cite our work via  
+```
+@ARTICLE{Wang2025TAES,
+  author={Wang, Ziwen and Wang, Jianping and Li, Pucheng and Ding, Zegang},
+  journal={IEEE Transactions on Aerospace and Electronic Systems}, 
+  title={Dimension Scaling SR-Net for Super-Resolution Radar Range Profiles}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-15},
+  doi={10.1109/TAES.2025.3614600}}
+```
+      
+    
+    
+      
+    
+      
+    
+    
+      
+    
+      
+    
+    
+      
+    
