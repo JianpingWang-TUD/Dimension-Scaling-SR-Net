@@ -31,7 +31,7 @@ The project includes:
 ------------------------------------------------------------------------
 ## Reference 
 Please cite our work via
-'''
+```
 @ARTICLE{Wang2025TAES,
   author={Wang, Ziwen and Wang, Jianping and Li, Pucheng and Ding, Zegang},
   journal={IEEE Transactions on Aerospace and Electronic Systems}, 
@@ -41,4 +41,14 @@ Please cite our work via
   number={},
   pages={1-15},
   doi={10.1109/TAES.2025.3614600}}
-'''
+```
+      
+    
+    
+      
+    
+      
+    
+    
+      
+    
